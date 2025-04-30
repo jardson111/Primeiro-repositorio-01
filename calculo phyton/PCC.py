@@ -1,5 +1,5 @@
 // Discente: Jardson 
-
+// Doscente: Ana Beatriz 
 n = 5
 b = 8
 y = 3

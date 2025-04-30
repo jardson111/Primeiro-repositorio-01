@@ -1,5 +1,7 @@
 // Discente: Jardson 
 // Doscente: Ana Beatriz 
+// Curso: Técnico em Infomrática
+
 n = 5
 b = 8
 y = 3

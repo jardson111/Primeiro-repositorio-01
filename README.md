@@ -1,2 +1,2 @@
 # Primeiro-repositorio-01
-Meu primeiro repositório no gi
+Meu primeiro repositório no g

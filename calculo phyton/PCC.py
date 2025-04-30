@@ -7,3 +7,5 @@ b = 8
 y = 3
 x = 24
 calculo = n / b * 2 * 24
+
+print (f"O valor do cálculo, é"{calculo})

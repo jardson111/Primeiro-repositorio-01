@@ -1,3 +1,5 @@
+// Discente: Jardson 
+
 n = 5
 b = 8
 y = 3
